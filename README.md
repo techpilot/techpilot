@@ -4,9 +4,9 @@ I am Stephen Ngwu, a Software Developer. Lover of all things Opensource, Linux, 
 
 
 SKILL SET
- - PYTHON       -- JAVASCRIPT     -- GIT
- - REACT        -- NODE JS        -- CSS
- - DATABASES    -- HOSTING        -- LINUX
+ - PYTHON        -- JAVASCRIPT      -- GIT
+ - REACT           -- NODE JS         -- CSS
+ - DATABASES      -- HOSTING         -- LINUX
 
 
 CONTACT
