@@ -8,7 +8,7 @@ SKILL SET
  - DATABASES    -- HOSTING        -- LINUX
 
 
-## CONTACT
+CONTACT
 GMAIL:    ngwustephen99@gmail.com
 TWITTER:  https://twitter.com/cipherEp
 LINKEDIN: https://www.linkedin.com/in/stephen-ngwu-b65a77196/
