@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer</h3>
 <p align="center">Lover of all things Opensource, Linux, Blockchain, Web and Computer Vision. A Computer Scientist and A Softawre Developer.</p>
  <p align="center">
- <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role on that, especially helping African <b>youths</b>. It really moves me seeing intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p>
+ <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role on that, especially helping African <b>youths</b>. It really triggers me seeing intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p>
 <br>
 
 <p align="left"> <a href="https://twitter.com/cipherep" target="blank"><img src="https://img.shields.io/twitter/follow/cipherep?logo=twitter&style=for-the-badge" alt="cipherep" /></a> </p>
