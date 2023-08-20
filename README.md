@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lucid-bassi-8ec726.netlify.app/" target="blank"> Stephen Ngwu</a></h1>
 <h3 align="center">A Software Developer</h3>
-<p align="center">Lover of all things Opensource, Linux, Blockchain, Web and Computer Vision. A Computer Scientist and A Softawre Developer.</p>
+<p align="center">Lover of all things Opensource, Linux, Blockchain, Web and Computer Vision. A Computer Scientist and A Software Developer.</p>
  <p align="center">
- <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role on that, especially helping African <b>youths</b>. It really triggers me seeing intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p>
+ <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role in that, especially in helping African <b>youths</b>. It really triggers me to see intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p>
 <br>
 
-<p align="left"> <a href="https://twitter.com/cipherep" target="blank"><img src="https://img.shields.io/twitter/follow/cipherep?logo=twitter&style=for-the-badge" alt="cipherep" /></a> </p>
+<!--  <p align="left"> <a href="https://twitter.com/cipherep" target="blank"><img src="https://img.shields.io/twitter/follow/cipherep?logo=twitter&style=for-the-badge" alt="cipherep" /></a> </p> -->
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cipherep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cipherep" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/cipherep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cipherep" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/stephen-ngwu-b65a77196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Stephen Ngwu" height="30" width="40" /></a>
 </p>
 
@@ -32,7 +32,7 @@
  </a> <a href="https://linux.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
  
  </p>
-<!--  https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg -->
+<!-- https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg -->
 
 <!---
 techpilot/techpilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
