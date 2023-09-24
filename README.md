@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lucid-bassi-8ec726.netlify.app/" target="blank"> Stephen Ngwu</a></h1>
 <h3 align="center">A Software Developer</h3>
 <p align="center">Lover of all things Opensource, Linux, Blockchain, Web and Computer Vision. A Computer Scientist and A Software Developer.</p>
- <p align="center">
- <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role in that, especially in helping African <b>youths</b>. It really triggers me to see intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p>
+<!--  <p align="center">
+ <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role in that, especially in helping African <b>youths</b>. It really triggers me to see intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p> -->
 <br>
 
 <!--  <p align="left"> <a href="https://twitter.com/cipherep" target="blank"><img src="https://img.shields.io/twitter/follow/cipherep?logo=twitter&style=for-the-badge" alt="cipherep" /></a> </p> -->
