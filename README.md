@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lucid-bassi-8ec726.netlify.app/" target="blank"> Stephen Ngwu</a></h1>
 <h3 align="center">A Software Developer</h3>
-<p align="center">Lover of all things Opensource, Linux, Blockchain, Web and Computer Vision. A Computer Scientist and A Software Developer.</p>
+<p align="center">I'm a Computer Scientist and Software Developer with a deep love for all things open source, Linux, blockchain, web, and cybersecurity. My journey in tech is fueled by a relentless curiosity and a drive to innovate and create. I thrive on building robust and scalable applications, securing digital spaces, and contributing to the open-source community. Let's connect and collaborate on projects that push the boundaries of technology!</p>
 <!--  <p align="center">
  <b>This is me:</b> If there is a way that Africa will grow rapidly, technology is the surest path. Therefore, I would really want to play a huge role in that, especially in helping African <b>youths</b>. It really triggers me to see intelligent young minds of Africa finding it difficult to work towards their tech dreams and I'm working on bridging that gap by making available the possible initiatives.</p> -->
 <br>
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/cipherep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cipherep" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/stephen-ngwu-b65a77196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Stephen Ngwu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephenngwu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Stephen Ngwu" height="30" width="40" /></a>
 </p>
 
 
