@@ -67,7 +67,7 @@ I'm a full-stack engineer and **Co-Founder & Principal Engineer of [SPOX](https:
 
 **[SPOX](https://app.spox.trading) — Sports Performance Trading Exchange**
 
-Co-founded and built a Solana-based platform letting fans and traders take a real position in a sports team's performance. Own the Angular/Socket.io frontend, contribute across the NestJS/PostgreSQL backend, and lead security end-to-end (threat modeling, SAST/DAST, KYC).
+Co-founded and built a platform letting fans and traders take a real position in a sports team's performance. Own the Angular/Socket.io frontend, contribute across the NestJS/PostgreSQL backend, and lead security end-to-end (threat modeling, SAST/DAST, KYC).
 
 `Angular` `NestJS` `PostgreSQL` `Socket.io` `Solana` `TradingView`
 
@@ -113,12 +113,9 @@ Built a smart-contract-based Ethereum payment system and multi-currency payment 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techpilo&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpilot&layout=compact&hide_border=true&title_color=1F3864" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techpilot&hide_border=true&background=FFFFFF00&ring=1F3864&fire=1F3864" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=techpilot&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpilot&layout=compact&hide_border=true&title_color=1F3864&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com?user=techpilot&hide_border=true&background=FFFFFF00&ring=1F3864&fire=1F3864" />
 </div>
 
 ---
