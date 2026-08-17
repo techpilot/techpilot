@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;Building+secure%2C+real-time+fintech+systems" alt="Typing SVG" style="w-80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;Building+secure%2C+real-time+fintech+systems" alt="Typing SVG" style="w-80%" />
 
 <p>
   <a href="https://www.linkedin.com/in/stephenngwu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
