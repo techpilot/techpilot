@@ -113,6 +113,13 @@ Built a smart-contract-based Ethereum payment system and multi-currency payment 
 ### 📊 GitHub Stats
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=techpilot&label=Profile%20Views&color=1F3864&style=flat" />
+<!-- 
+  The widgets below (github-readme-stats.vercel.app, streak-stats.demolab.com) are shared
+  public services that intermittently rate-limit or go down. For a version that won't break,
+  set up https://github.com/jstrieb/github-stats (a GitHub Action that generates these as
+  static images inside your own repo), then paste the embed code it gives you here instead.
+-->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=techpilot&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&cache_seconds=86400" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpilot&layout=compact&hide_border=true&title_color=1F3864&cache_seconds=86400" />
 <img src="https://streak-stats.demolab.com?user=techpilot&hide_border=true&background=FFFFFF00&ring=1F3864&fire=1F3864" />
