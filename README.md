@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;Building+secure%2C+real-time+fintech+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;BBuilding+secure%2C+real-time+fintech+systems" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/stephenngwu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-I'm a full-stack engineer and **Co-Founder & Principal Engineer of [SPOX](https://app.spox.trading)**, a Solana-based sports-performance trading exchange I built from the ground up. I care about the same thing on every project: shipping fast, elegant interfaces backed by systems that don't fall over when real money and real users depend on them.
+I'm a full-stack engineer and **Co-Founder & Principal Engineer of [SPOX](https://app.spox.trading)**, a sports-performance trading exchange I built from the ground up. I care about the same thing on every project: shipping fast, elegant interfaces backed by systems that don't fall over when real money and real users depend on them.
 
 - 🔭 Currently building **SPOX** — 5,000+ trades processed, $48K+ in trading volume, zero security incidents
 - 🔐 Deepening my application-security practice — Google Cybersecurity Professional Certificate, GRCAfriq GRC Certificate, hands-on OWASP/SAST/DAST/threat-modeling work
@@ -135,16 +135,6 @@ I'm open to full-stack, backend, and senior engineering roles — feel free to r
 
 </div>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="solidity"
- width="40" height="40"/> </a>
- <a href ="https://www.python.org/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
- </a> <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
- width="40" height="40"/> </a> 
- </a> <a href="https://linux.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
- 
- </p>
 <!-- https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg -->
 
 <!---
