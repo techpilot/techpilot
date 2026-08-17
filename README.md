@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;BBuilding+secure%2C+real-time+fintech+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stephen+Ngwu;Full-Stack+Engineer+%7C+Co-Founder%2C+SPOX;Building+secure%2C+real-time+fintech+systems" alt="Typing SVG" style="w-80%" />
 
 <p>
   <a href="https://www.linkedin.com/in/stephenngwu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -114,10 +114,10 @@ Built a smart-contract-based Ethereum payment system and multi-currency payment 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&title_color=1F3864" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=techpilo&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpilot&layout=compact&hide_border=true&title_color=1F3864" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=FFFFFF00&ring=1F3864&fire=1F3864" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techpilot&hide_border=true&background=FFFFFF00&ring=1F3864&fire=1F3864" />
 
 </div>
 
